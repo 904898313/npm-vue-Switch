@@ -1,0 +1,39 @@
+{
+  "_from": "ycg-vue-switch@^1.0.3",
+  "_id": "ycg-vue-switch@1.0.4",
+  "_inBundle": false,
+  "_integrity": "sha512-IykRT+eWUOzk03g6/Cc0cI/4TMNUq+/H13c5qtK75rFBSqihfe78Yaz1C2lS9fKeD51YdRFsGx978JmyNeW9MA==",
+  "_location": "/ycg-vue-switch",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "ycg-vue-switch@^1.0.3",
+    "name": "ycg-vue-switch",
+    "escapedName": "ycg-vue-switch",
+    "rawSpec": "^1.0.3",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.3"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/ycg-vue-switch/-/ycg-vue-switch-1.0.4.tgz",
+  "_shasum": "63930f8d1f9eb7bba8e0faa118f68b1f90590998",
+  "_spec": "ycg-vue-switch@^1.0.3",
+  "_where": "D:\\myCode\\vueUtils",
+  "author": {
+    "name": "ycg"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "* 说明：双向绑定的switch开关值\r * 是否必传：是\r * 值类型：Boolean\r * 注意：传值需要带上.sync，用于通过子组件触发修改父组件中的值",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "ycg-vue-switch",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.0.4"
+}

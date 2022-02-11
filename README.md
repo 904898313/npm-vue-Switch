@@ -40,7 +40,7 @@
 * 说明：switch开关值被异步改变时的回调函数
 * 回调参数：改变后的Boolean值
 
-## @event manualChange
+## @event change
 * 说明：手动切换switch开关值的回调函数
 * 回调参数：改变后的Boolean值
 
@@ -51,6 +51,6 @@
   :off="{text:'关闭', textStyle:'color:red;',containerStyle:'width:100px;',dotsStyle:'background-color: fuchsia;'}"
   :disabled="false"
   @automaticChange='automaticChange'
-  @manualChange='manualChange'
+  @change='change'
 />
 ```
