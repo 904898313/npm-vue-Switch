@@ -57,3 +57,5 @@ Vue.use(switchDom)
   @change='change'
 />
 ```
+off:<img width="77" alt="企业微信截图_16467074345146" src="https://user-images.githubusercontent.com/67309600/157156031-6371f04f-f01c-4665-8a3a-cdfdf9c587d2.png">
+on:<img width="75" alt="企业微信截图_16467074413650" src="https://user-images.githubusercontent.com/67309600/157156049-a6ce33c7-6cb5-4efc-b536-d7b3ecc9591a.png">
