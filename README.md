@@ -50,7 +50,7 @@ import switchDom from 'ycg-vue-switch';
 Vue.use(switchDom)
 ```
 ```html
-//html
+<!-- html -->
 <switch-dom
   :value.sync="val"
   :disabled="false"
